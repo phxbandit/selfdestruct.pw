@@ -1,3 +1,5 @@
+![Logo](https://sctn9.com/selfdestruct/resources/selfdestruct-logo.png)
+
 selfdestruct.pw
 ----------------
 
