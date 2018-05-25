@@ -1,0 +1,2 @@
+# selfdestruct.pw - Call cull.php to delete old passwords
+* * * * * php /var/www/html/selfdestruct/cull.php
