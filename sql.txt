@@ -1,0 +1,8 @@
+CREATE TABLE hashpass
+(
+id int NOT NULL AUTO_INCREMENT,
+password varchar(255) NOT NULL,
+hash varchar(64) NOT NULL,
+created datetime NOT NULL,
+PRIMARY KEY (id)
+);
