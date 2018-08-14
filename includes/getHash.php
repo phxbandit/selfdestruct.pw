@@ -1,7 +1,7 @@
 <?php
 
 class getHash {
-    public $bytes = 128;
+    public $bytes = 32;
 
     public function hashPass($password) {
         $random = openssl_random_pseudo_bytes($this->bytes);
